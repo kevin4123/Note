@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "8253095d3c680028",
+    "type": "split",
+    "children": [
+      {
+        "id": "91dd2160c2a8e584",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "746f6f8d0cc11a91",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "SoC Design.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "SoC Design"
+            }
+          },
+          {
+            "id": "b3c9aa1538121855",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "SoC Design.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "SoC Design"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0f6547142f615dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "9232ef82e8c6f0e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bd0150aa4d6afce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4d53c3e7ae4f5a6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "87cf892f469f229e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "14c4ce0816bdbabf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5a19d3f9e74b969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51feaab061aa34d3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SoC Design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SoC Design"
+            }
+          },
+          {
+            "id": "ba885823a2a88397",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SoC Design.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from SoC Design"
+            }
+          },
+          {
+            "id": "d812e3c9afe1e900",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c4cfe38529f25f00",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1e2554d981055435",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SoC Design.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of SoC Design"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "b3c9aa1538121855",
+  "lastOpenFiles": [
+    "README.md",
+    "SoC Design.md",
+    "Memory.md",
+    "assets/exclamation.png",
+    "assets/打孔纸带.png",
+    "assets",
+    "assets/Trigger.png",
+    "Welcome.md",
+    "Excalidraw/Drawing 2025-11-29 22.30.14.excalidraw.md",
+    "Excalidraw"
+  ]
+}
