@@ -112,6 +112,109 @@
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.17.2",
     "libraryItems": [
       {
+        "id": "celo74uVlql26GOjZD9CF",
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "3VQgIsvUqq9x33CREh7Of",
+            "type": "line",
+            "x": -1448.9618067436024,
+            "y": 334.91725210852286,
+            "width": 341.88265639439055,
+            "height": 0,
+            "angle": 0,
+            "strokeColor": "#1e1e1e",
+            "backgroundColor": "transparent",
+            "fillStyle": "cross-hatch",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "bl3",
+            "roundness": null,
+            "seed": 716068740,
+            "version": 51,
+            "versionNonce": 1340048444,
+            "isDeleted": false,
+            "boundElements": [],
+            "updated": 1764927712910,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                341.88265639439055,
+                0
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "polygon": false
+          },
+          {
+            "angle": 1.5707963267948966,
+            "backgroundColor": "#1e1e1e",
+            "fillStyle": "solid",
+            "height": 15.162923474075548,
+            "id": "SyoFGB5ko-Nx4rNKxGh9I",
+            "opacity": 100,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                8.754313867757517,
+                15.162923474075548
+              ],
+              [
+                -8.754313867757517,
+                15.162923474075548
+              ],
+              [
+                0,
+                0
+              ]
+            ],
+            "roughness": 1,
+            "seed": 763414276,
+            "strokeColor": "#1e1e1e",
+            "strokeWidth": 1,
+            "type": "line",
+            "width": 17.508627735515034,
+            "x": -1099.4976888325875,
+            "y": 327.33578991646067,
+            "version": 145,
+            "versionNonce": 1046191292,
+            "index": "bl4",
+            "isDeleted": false,
+            "strokeStyle": "solid",
+            "groupIds": [],
+            "frameId": null,
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1764927712910,
+            "link": null,
+            "locked": false,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "polygon": true,
+            "lastCommittedPoint": null
+          }
+        ],
+        "created": 1764927718789
+      },
+      {
         "id": "SFLiJ8FxmRZriEeaRKGXa",
         "status": "unpublished",
         "elements": [

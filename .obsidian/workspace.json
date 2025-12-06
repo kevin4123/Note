@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "SoC Design.md"
+                "file": "Memory.md"
               },
               "icon": "excalidraw-icon",
-              "title": "SoC Design"
+              "title": "Memory"
             }
           },
           {
@@ -25,14 +25,74 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "SoC Design.md"
+                "file": "Verilog.md"
               },
               "icon": "excalidraw-icon",
-              "title": "SoC Design"
+              "title": "Verilog"
+            }
+          },
+          {
+            "id": "e7e25f493be5e9b5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Verilator.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Verilator"
+            }
+          },
+          {
+            "id": "c57cea5aebd79c2d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "CS-EE/Logic-1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Logic-1"
+            }
+          },
+          {
+            "id": "195c9d3b28d12e51",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "CS-EE/Logic-2.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Logic-2"
+            }
+          },
+          {
+            "id": "59c346a283f495b4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "CS-EE/CS-EE.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "CS-EE"
+            }
+          },
+          {
+            "id": "60242a2b9b52d66e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "CS-EE/Logic-1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Logic-1"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -89,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323.5
   },
   "right": {
     "id": "14c4ce0816bdbabf",
@@ -195,15 +255,28 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b3c9aa1538121855",
+  "active": "219300d76cd91db6",
   "lastOpenFiles": [
-    "README.md",
+    "CS-EE/Logic-2.md",
+    "CS-EE/Logic-1.md",
     "SoC Design.md",
+    "CS-EE/CS-EE.md",
+    "Verilator.md",
+    "Verilog.md",
     "Memory.md",
-    "assets/exclamation.png",
-    "assets/打孔纸带.png",
+    "README.md",
+    "assets/Instructions.png",
+    "assets/Programs.png",
+    "assets/SoC.png",
+    "Pasted Image 20251205120643_311.png",
+    "assets/chip.png",
+    "assets/Electrons.png",
+    "assets/Physics.png",
+    "assets/Amplifier.png",
+    "CS-EE",
+    "assets/SimulationMechanism.png",
+    "assets/Tool.png",
     "assets",
-    "assets/Trigger.png",
     "Welcome.md",
     "Excalidraw/Drawing 2025-11-29 22.30.14.excalidraw.md",
     "Excalidraw"
