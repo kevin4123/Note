@@ -56,19 +56,7 @@
             }
           },
           {
-            "id": "195c9d3b28d12e51",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "CS-EE/Logic-2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Logic-2"
-            }
-          },
-          {
-            "id": "59c346a283f495b4",
+            "id": "5921cc167b76533e",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -77,6 +65,18 @@
               },
               "icon": "excalidraw-icon",
               "title": "CS-EE"
+            }
+          },
+          {
+            "id": "90b986f41095954b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "CS-EE/Logic-Simulation-Verilator-Vivado.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Logic-Simulation-Verilator-Vivado"
             }
           },
           {
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -255,27 +255,29 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "219300d76cd91db6",
+  "active": "90b986f41095954b",
   "lastOpenFiles": [
-    "CS-EE/Logic-2.md",
+    "CS-EE/Logic-Verilog.md",
     "CS-EE/Logic-1.md",
-    "SoC Design.md",
+    "CS-EE/Logic-2.md",
+    "CS-EE/Logic-Simulation-Verilator-Vivado.md",
+    "CS-EE/Micro-Architecture-1.md",
+    "assets/GTKWave.png",
+    "assets/Vivado.png",
+    "assets/makefile.svg",
     "CS-EE/CS-EE.md",
-    "Verilator.md",
-    "Verilog.md",
     "Memory.md",
+    "SoC Design.md",
     "README.md",
-    "assets/Instructions.png",
-    "assets/Programs.png",
-    "assets/SoC.png",
-    "Pasted Image 20251205120643_311.png",
-    "assets/chip.png",
-    "assets/Electrons.png",
-    "assets/Physics.png",
-    "assets/Amplifier.png",
-    "CS-EE",
+    "Verilog.md",
     "assets/SimulationMechanism.png",
+    "assets/Verilator.png",
+    "assets/chip.png",
+    "assets/tape.png",
     "assets/Tool.png",
+    "assets/Trigger.png",
+    "assets/SoC.png",
+    "CS-EE",
     "assets",
     "Welcome.md",
     "Excalidraw/Drawing 2025-11-29 22.30.14.excalidraw.md",
