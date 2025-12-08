@@ -13,62 +13,14 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Memory.md"
+                "file": "CS-EE/Transistor-1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Memory"
+              "title": "Transistor-1"
             }
           },
           {
-            "id": "b3c9aa1538121855",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Verilog.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Verilog"
-            }
-          },
-          {
-            "id": "e7e25f493be5e9b5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Verilator.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Verilator"
-            }
-          },
-          {
-            "id": "c57cea5aebd79c2d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "CS-EE/Logic-1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Logic-1"
-            }
-          },
-          {
-            "id": "5921cc167b76533e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "CS-EE/CS-EE.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "CS-EE"
-            }
-          },
-          {
-            "id": "90b986f41095954b",
+            "id": "80aabdabe6f787ba",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -80,19 +32,19 @@
             }
           },
           {
-            "id": "60242a2b9b52d66e",
+            "id": "87e593ba36f9fc8d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "CS-EE/Logic-1.md"
+                "file": "CS-EE/Logic-Simulation-Verilator-Vivado.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Logic-1"
+              "title": "Logic-Simulation-Verilator-Vivado"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -255,28 +207,30 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "90b986f41095954b",
+  "active": "87e593ba36f9fc8d",
   "lastOpenFiles": [
-    "CS-EE/Logic-Verilog.md",
     "CS-EE/Logic-1.md",
     "CS-EE/Logic-2.md",
     "CS-EE/Logic-Simulation-Verilator-Vivado.md",
+    "CS-EE/Logic-Verilog.md",
     "CS-EE/Micro-Architecture-1.md",
+    "CS-EE/Transistor-1.md",
+    "CS-EE/Physics-1.md",
+    "Memory.md",
+    "assets/BasicGate.png",
+    "CS-EE/CS-EE.md",
+    "assets/Registers_Latch.png",
+    "assets/chip.png",
     "assets/GTKWave.png",
     "assets/Vivado.png",
     "assets/makefile.svg",
-    "CS-EE/CS-EE.md",
-    "Memory.md",
     "SoC Design.md",
     "README.md",
     "Verilog.md",
     "assets/SimulationMechanism.png",
     "assets/Verilator.png",
-    "assets/chip.png",
     "assets/tape.png",
     "assets/Tool.png",
-    "assets/Trigger.png",
-    "assets/SoC.png",
     "CS-EE",
     "assets",
     "Welcome.md",
