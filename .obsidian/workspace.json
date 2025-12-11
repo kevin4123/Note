@@ -8,39 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "746f6f8d0cc11a91",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "CS-EE/Transistor-1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Transistor-1"
-            }
-          },
-          {
             "id": "80aabdabe6f787ba",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "CS-EE/Logic-Simulation-Verilator-Vivado.md"
+                "file": "CS-EE/Micro-Architecture-1.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Logic-Simulation-Verilator-Vivado"
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
             }
           },
           {
-            "id": "87e593ba36f9fc8d",
+            "id": "0d1dd9b49931c370",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "CS-EE/Logic-Simulation-Verilator-Vivado.md"
+                "file": "CS-EE/Micro-Architecture- Development.md"
+              },
+              "icon": "lucide-ghost",
+              "title": "excalidraw"
+            }
+          },
+          {
+            "id": "6e0477cf0bc29d5e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "CS-EE/Micro-Architecture- Development.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Logic-Simulation-Verilator-Vivado"
+              "title": "Micro-Architecture- Development"
             }
           }
         ],
@@ -207,30 +207,34 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "87e593ba36f9fc8d",
+  "active": "6e0477cf0bc29d5e",
   "lastOpenFiles": [
-    "CS-EE/Logic-1.md",
-    "CS-EE/Logic-2.md",
-    "CS-EE/Logic-Simulation-Verilator-Vivado.md",
-    "CS-EE/Logic-Verilog.md",
-    "CS-EE/Micro-Architecture-1.md",
-    "CS-EE/Transistor-1.md",
-    "CS-EE/Physics-1.md",
+    "CS-EE/Micro-Architecture- Development.md",
+    "Pasted Image 20251211091546_064.png",
+    "Pasted Image 20251211064222_992.png",
+    "assets/Gear.png",
     "Memory.md",
-    "assets/BasicGate.png",
+    "Pasted Image 20251211064223_051.png",
+    "Pasted Image 20251211064223_066.png",
+    "Pasted Image 20251211064223_081.png",
+    "assets/RTL.png",
     "CS-EE/CS-EE.md",
-    "assets/Registers_Latch.png",
-    "assets/chip.png",
-    "assets/GTKWave.png",
-    "assets/Vivado.png",
-    "assets/makefile.svg",
+    "CS-EE/Logic-2.md",
+    "CS-EE/Logic-Verilog.md",
+    "CS-EE/Logic-Simulation-Verilator-Vivado.md",
+    "CS-EE/Drawing 2025-12-11 07.50.35.excalidraw.md",
+    "CS-EE/Micro-Architecture-1.md",
+    "assets/Tool 1.png",
+    "assets/Tool.png",
+    "CS-EE/Physics-1.md",
+    "CS-EE/Transistor-1.md",
+    "assets/SMIC.png",
+    "CS-EE/ISA-1.md",
+    "CS-EE/Logic-1.md",
+    "Graphics.md",
     "SoC Design.md",
     "README.md",
     "Verilog.md",
-    "assets/SimulationMechanism.png",
-    "assets/Verilator.png",
-    "assets/tape.png",
-    "assets/Tool.png",
     "CS-EE",
     "assets",
     "Welcome.md",
