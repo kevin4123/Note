@@ -248,7 +248,7 @@ I ^f4PQc63H
 要分开体现在波形图上 ^ndXVLI9A
 
 ## Element Links
-hjgSlMBV: [[Logic-2]]
+hjgSlMBV: [[Logic-Model]]
 
 ## Embedded Files
 286b5955c68f93e7ba881fdd941748deae24824f: [[makefile.svg]]

@@ -42,9 +42,33 @@
               "icon": "excalidraw-icon",
               "title": "Micro-Architecture- Development"
             }
+          },
+          {
+            "id": "2b212a0f22207e83",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "CS-EE/Logic-Feedback.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Logic-Feedback"
+            }
+          },
+          {
+            "id": "d5b54ef0557da900",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "CS-EE/Micro-Architecture- Development.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Micro-Architecture- Development"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -207,31 +231,33 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6e0477cf0bc29d5e",
+  "active": "d5b54ef0557da900",
   "lastOpenFiles": [
+    "assets/yosys flow.png",
     "CS-EE/Micro-Architecture- Development.md",
-    "Pasted Image 20251211091546_064.png",
-    "Pasted Image 20251211064222_992.png",
-    "assets/Gear.png",
-    "Memory.md",
-    "Pasted Image 20251211064223_051.png",
-    "Pasted Image 20251211064223_066.png",
     "Pasted Image 20251211064223_081.png",
-    "assets/RTL.png",
-    "CS-EE/CS-EE.md",
-    "CS-EE/Logic-2.md",
     "CS-EE/Logic-Verilog.md",
-    "CS-EE/Logic-Simulation-Verilator-Vivado.md",
-    "CS-EE/Drawing 2025-12-11 07.50.35.excalidraw.md",
+    "CS-EE/Logic-Model.md",
+    "CS-EE/Logic-Feedback.md",
+    "assets/Logic Analyzer.png",
+    "How To Learn.md",
     "CS-EE/Micro-Architecture-1.md",
-    "assets/Tool 1.png",
-    "assets/Tool.png",
+    "Memory.md",
+    "Pasted Image 20251211064222_992.png",
+    "Pasted Image 20251211064223_066.png",
+    "Pasted Image 20251211064223_051.png",
     "CS-EE/Physics-1.md",
     "CS-EE/Transistor-1.md",
-    "assets/SMIC.png",
-    "CS-EE/ISA-1.md",
+    "assets/Snippet.png",
+    "Pasted Image 20251211091546_064.png",
+    "CS-EE/Logic-Simulation-Verilator-Vivado.md",
     "CS-EE/Logic-1.md",
     "Graphics.md",
+    "assets/number7.png",
+    "assets/number3.png",
+    "CS-EE/CS-EE.md",
+    "CS-EE/Drawing 2025-12-11 07.50.35.excalidraw.md",
+    "CS-EE/ISA-1.md",
     "SoC Design.md",
     "README.md",
     "Verilog.md",
